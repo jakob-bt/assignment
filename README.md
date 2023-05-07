@@ -13,7 +13,7 @@ Has routes for registration and login.
 MongoDB cluster currently has one user made available for testing, using the following format:
 
 {
-    "email": "ebere@gmail.com", "password": "password"
+    "email": "test@gmail.com", "password": "password"
 }
 
 Can also use the same format to register a new user.
